@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4374ffa5-51bd-46d5-81ca-74b5106d8741" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/both/PeopleCollection.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/server/PeopleInitialization.js" />
-    </list>
+    <list default="true" id="4374ffa5-51bd-46d5-81ca-74b5106d8741" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -71,8 +67,8 @@
     <handled-path value="$PROJECT_DIR$/app/.meteor/local/dev_bundle/server-lib/node_modules" />
     <handled-path value="$PROJECT_DIR$/app/node_modules" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-785" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-64" />
     <option name="y" value="22" />
     <option name="width" value="1280" />
     <option name="height" value="777" />
@@ -186,7 +182,7 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-785" y="22" width="1280" height="777" extended-state="0" />
+    <frame x="-4" y="22" width="1280" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
